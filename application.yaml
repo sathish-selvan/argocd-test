@@ -1,5 +1,5 @@
 apiVersion : argoproj.io/v1aplha1
-kind: application
+kind: Application
 metadata:
   name: argo-app
   namespace: argocd
